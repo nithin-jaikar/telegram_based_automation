@@ -1,0 +1,32 @@
+{
+  "membersList": [
+    "Member1",
+    "Member2",
+    "Member3",
+    "Member4",
+    "Member5",
+
+  ], // fill your members user here
+  "usernames": {
+    "Member1": "*********",
+    "Member2": "*********",
+    "Member3": "*********",
+    "Member4": "*********",
+    "Member5": "*********",
+    
+   
+  },
+  "chatId": {
+    "2847*****": "Member1",
+    "3298*****": "Member2",
+    "3831*****": "Member3",
+    "3972*****": "Member4",
+    "4816*****": "Member5",
+//if your adding BOT to your group 
+    "-1001405*****":"yourGroupId"
+
+ 
+  },
+
+
+}
