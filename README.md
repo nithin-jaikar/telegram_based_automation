@@ -1,2 +1,4 @@
 # telegram_based_automation
-a telegram bot using controlls the lights and fan based on telegram commands
+get clone the code 
+install the dependenices in the package given
+HAPPY CODING...
