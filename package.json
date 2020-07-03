@@ -1,0 +1,24 @@
+{
+  "name": "telegram_automation_bot",
+  "version": "1.0.0",
+  "description": "Home_automation_using_telegam_bot",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/nithin-jaikar/telegram_based_automation"
+  },
+  "author": "Nithin Jaikar",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^1.19.0",
+    "readline": "^2.8.5",
+    "onoff": "^4.17.1",
+    "node-telegram-bot-api": "^7.14.0"
+    
+  }
+}
+
+  
